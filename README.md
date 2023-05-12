@@ -1,6 +1,7 @@
 # Ender-3-pro-Firmware-with-Linear-Advance<br>
 ## Українська (Ukrainian)
 Це прошивка для Ender 3 Pro Українська, увімкнутий Linear Advance, Marlin 2.1.2  (board 4.2.2, STM32F103RET6 controller,  stepper motor driver MC2225)<br>
+Прошивка просто кидаеш firmware-20230513-002543.bin на cd_card тa вмикаеш Ender 3 pro<br>
 Як дізнатись борд: дивись в меню <br>
 Як дізнатись контроллер:  якщо на чипі написано остання строка ARM  та друга RET6 (У мене перша GD32F303)<br>
 [Як дізнатись який у вас драйвер крокового двигуна:](https://www.reddit.com/r/ender3/comments/uh02go/cant_identify_stepper_drivers_on_creality_422/)
