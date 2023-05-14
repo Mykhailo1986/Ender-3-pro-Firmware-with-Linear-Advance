@@ -25,6 +25,24 @@ Look at the card reader on the board, mine has the label [8Н](https://i.redd.it
 - A = TMC2208
 - B = TMC2209
 - H = [TMC2225](https://www.youmaketech.com/wp-content/uploads/2022/01/TMC2225-Specifications.pdf)<br>
-Marlin configuration.h: Use TMC2208/TMC2208_STANDALONE for TMC2225 drivers.
-<
+Marlin configuration.h: Use TMC2208/TMC2208_STANDALONE for TMC2225 drivers.<br>
+
+To update the firmware on your Ender 3 Pro with Linear Advance and Ukrainian language support, follow these instructions:<br>
+Note: Make sure you have a stable power supply and take appropriate precautions while updating the firmware.<br>
+
+Download the firmware:<br>
+Click on the firmware file and then click the "Download" button to save it to your computer. The file should have a name like ["Ender3Pro_LiniarAdvance_UKR_multilingual.bin"](https://github.com/Mykhailo1986/Ender-3-pro-Firmware-with-Linear-Advance/blob/main/Ender3Pro_LiniarAdvance_UKR_multilingual.bin).<br>
+Prepare an SD card:<br>
+
+- Take an empty SD card (preferably 8GB or smaller) and format it to FAT32 file system.
+- Copy the downloaded firmware file "Ender3Pro_LiniarAdvance_UKR_multilingual.bin" to the root directory of the SD card.
+- Safely eject the SD card from your computer.
+- Turn off your Ender 3 Pro and insert the prepared SD card into the SD card slot on the printer.
+- Power on the printer and wait for the firmware update to start.<br>
+The update process may take a few minutes. Do not interrupt power during this time.<br>
+Once the update is complete, the printer will start automatically.
+- Remove the SD card from the printer.
+
+That's it! You have successfully updated the firmware on your Ender 3 Pro with Linear Advance and Ukrainian language support.
+
 
