@@ -16,7 +16,6 @@ Marlin configuration.h: Use TMC2208/TMC2208_STANDALONE for TMC2225 drivers
 
 ## English
 This is firmware for Ender 3 Pro in Ukrainian, with Linear Advance enabled, Marlin 2.1.2 (board 4.2.2, STM32F103RET6 controller, stepper motor driver MC2225).<br>
-Last release is [here](https://github.com/Mykhailo1986/Ender-3-pro-Firmware-with-Linear-Advance/releases)
 How to determine the board: check in the menu.<br>
 How to determine the controller: if the last line on the chip says ARM and the second line says RET6 (I have GD32F303 as the first line).<br>
 [How to determine your stepper driver:](https://www.reddit.com/r/ender3/comments/uh02go/cant_identify_stepper_drivers_on_creality_422/)
@@ -32,7 +31,7 @@ To update the firmware on your Ender 3 Pro with Linear Advance and Ukrainian lan
 Note: Make sure you have a stable power supply and take appropriate precautions while updating the firmware.<br>
 
 Download the firmware:<br>
-Click on the firmware file and then click the "Download" button to save it to your computer. The file should have a name like ["Ender3Pro_LiniarAdvance_UKR_multilingual.bin"](https://github.com/Mykhailo1986/Ender-3-pro-Firmware-with-Linear-Advance/blob/main/Ender3Pro_LiniarAdvance_UKR_multilingual.bin).<br>
+Click on the firmware file and then click the "Download" button to save it to your computer. The file should have a name like ["Ender3Pro_LiniarAdvance_UKR_multilingual.bin"](https://github.com/Mykhailo1986/Ender-3-pro-Firmware-with-Linear-Advance/releases).<br>
 Prepare an SD card:<br>
 
 - Take an empty SD card (preferably 8GB or smaller) and format it to FAT32 file system.
